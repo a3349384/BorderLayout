@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BorderLayout">
+        <attr name="BorderColor" format="color"/>
+        <attr name="BorderWidth" format="dimension"/>
+        <attr name="BorderBackgroundColor" format="color"/>
+        <attr name="CornerRadius" format="string"/>
+    </declare-styleable>
+</resources>
