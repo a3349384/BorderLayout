@@ -1,6 +1,8 @@
 # BorderLayout
 一个用于Android的支持CornerRadius的ViewGroup
 
+![image](https://raw.githubusercontent.com/a3349384/BorderLayout/master/BorderLayout_1.png)
+
 采用GradientDrawable实现。
 使用方式如下：
 
