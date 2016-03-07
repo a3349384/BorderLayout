@@ -2,7 +2,7 @@
 一个用于Android的支持CornerRadius的ViewGroup
 
 gradle:
-compile 'com.a3349384.borderlayout:library:1.0.0'
+compile 'com.a3349384.borderlayout:library:1.0.1'
 
 ![image](https://raw.githubusercontent.com/a3349384/BorderLayout/master/BorderLayout_1.png)
 
